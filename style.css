@@ -60,6 +60,10 @@ body{
 .content h2{
     font-weight: 900;
 }
+.content h2:hover{
+    color:hsl(47, 88%, 63%);
+    cursor: pointer;
+}
 .content .info{
     color: hsl(0, 0%, 50%);
 }
